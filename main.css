@@ -1,0 +1,41 @@
+body{
+	padding: 0;
+	margin: 0;
+	font-family: 'Anton', serif;
+	color: 000;
+	font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	padding: 0;
+	margin: 0;
+	text-transform: uppercase;
+}
+
+header, footer {
+    background: #DD9655;
+	padding: 100px 0;
+}
+h1 {
+	text-align: center;
+	color: #fff;
+	font-size: 60px;
+}
+div{
+	width: 1550px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+aside, main{
+	width: 49%;
+	float: left;
+}
+aside img{
+	display: block;
+	width: 90%;
+	margin: 0 auto;
+}
+footer p{
+	color: #fff;
+	text-align: center;
+}
